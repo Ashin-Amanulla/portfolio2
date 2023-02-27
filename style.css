@@ -1,0 +1,25 @@
+*{
+    padding:0%;
+    margin:0%
+
+}
+
+.navbar{
+
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(48, 156, 156);
+    padding:10px 0px 10px 0px
+}
+
+.navbar >a {
+    color:whitesmoke;
+    text-decoration: none;
+}
+
+.navbar >a:hover {
+    color:rgb(88, 87, 87);
+    text-decoration: none;
+}
+
+
